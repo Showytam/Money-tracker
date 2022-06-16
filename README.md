@@ -1,4 +1,4 @@
-#Money Tracker
+# Money Tracker
 
 [Link on project](https://showytam.github.io/Money-tracker/)
 
